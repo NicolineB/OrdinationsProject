@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = ordination-blazor
+build_property.RootNamespace = ordination-blazor
+build_property.ProjectDir = C:\Users\brolo\Desktop\it-arkitektur\Semester 3\Projekter\miniproj-ordination-main\ordination-blazor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\brolo\Desktop\it-arkitektur\Semester 3\Projekter\miniproj-ordination-main\ordination-blazor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Pages/OpretOrdination.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3ByZXRPcmRpbmF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Pages/VisOrdinationer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzT3JkaW5hdGlvbmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Pages/VisStatistik.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzU3RhdGlzdGlrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Shared/FastDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZhc3REZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Shared/LaegemiddelList.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExhZWdlbWlkZGVsTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Shared/OpretDagligFast.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE9wcmV0RGFnbGlnRmFzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Shared/OpretDagligSkaev.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE9wcmV0RGFnbGlnU2thZXYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Shared/OpretPN.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE9wcmV0UE4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Shared/OrdinationList.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE9yZGluYXRpb25MaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Shared/PNDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBORGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Shared/SkævDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNrw6Z2RGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-x1cbcpunow
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-qqhuqfxga1
+
+[C:/Users/brolo/Desktop/it-arkitektur/Semester 3/Projekter/miniproj-ordination-main/ordination-blazor/Shared/PatientList.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhdGllbnRMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-5ai9j6lmpc
